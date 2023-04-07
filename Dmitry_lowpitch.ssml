@@ -1,0 +1,4 @@
+<!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{"VoiceNameToIdMapItems":[{"Id":"8f00a701-8c0f-487b-af37-fe478a30fe64","Name":"Microsoft Server Speech Text to Speech Voice (ru-RU, DmitryNeural)","ShortName":"ru-RU-DmitryNeural","Locale":"ru-RU","VoiceType":"StandardVoice"}]}-->
+<!--ID=FCB40C2B-1F9F-4C26-B1A1-CF8E67BE07D1;Version=1|{"Files":{}}-->
+<!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{"Locales":{"ru-RU":{"AutoApplyCustomLexiconFiles":[{}]}}}-->
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="ru-RU"><voice name="ru-RU-DmitryNeural"><prosody pitch="low">Enter your sentence here</prosody></voice></speak>
